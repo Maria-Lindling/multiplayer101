@@ -73,3 +73,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Library binaries
+Library/*
+
+# Plugins
+**FishNet**
+Assets/FishNet/*
+Assets/TutorialInfo/*
+Assets/TextMesh Pro/*
+UserSettings/*
+Logs/*
